@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rZhB4KkqYhOeQVMxJdg9lSSPZJ2O8/qdcIKPW35i2F3qImeJP4qnflu58BXFGynXBIusMIsa3dVZ+u/5sa1eJQ==",
+  "dgSpecHash": "RK/bU1jcOKEMw+TcHAdnxt3ZmPfB6PBIAnPMeWVoNu7CU0Riq9fOJ637Ru9iC8NSoGkpL5YC15oE4dqAhNcBIQ==",
   "success": true,
-  "projectFilePath": "D:\\NetCore50\\Net6\\ProjectTest\\ProjectTest.API\\ProjectTest.API.csproj",
+  "projectFilePath": "/Users/cgonzalez/Documents/Projects/DevOpsCourse/ProjectTest/ProjectTest.API/ProjectTest.API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

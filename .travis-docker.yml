@@ -5,7 +5,7 @@ dist: xenial
 dotnet: 6.0.202
 branches:
   only:
-    - main
+    - master
 #    - develop
 #script:
 #  - dotnet build

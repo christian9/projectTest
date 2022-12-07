@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "devops-course-357802",
+  "private_key_id": "3d3b822aa93566bbd3c9db4726cdfe1b4c59940d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVzeuncsn0Z8mt\nE/ezQIofxDsTrf5eiYLkZFjh6AxiuzJ9TPxwG/wJpWVEDPcHuQhoeL3dcsiMd0cZ\ntsdNtc+HUohLdH/pAdur971emomeQS0ILCFc4KS1gJKyh40zqYcB2mW0He2iB59l\nVsxL/gYvg3Tjkr1rizcwjv3X5MgpxH0Z1efqKofgKq2zsGrerVtUfMeYgzxDMWDS\nW6AOz/8V0py745lPekpRWw9/P0Dcsh7r9m+VGw86qi+gpKXYT3O/i++ycHJFe+iq\np2vfELkGzajaY6z9d/9v/Qz12drYc2ej2S0eJNwvuOXJ/0OO8dVXqIZ7Qmf/JNSR\nIIOTluvHAgMBAAECggEABQVQSx3tR9w8pajgKelVV8g3ZKr1tgxszyPP2M5yr9Jv\nWES+xzEg6t/Yu4Wlt+QLNJkrX+Mrdo2+281E88VOrc3l1IWUjeYqiyJz/do3F48+\np6H3AkpjKtQi1on1gRBC/pxnwTgpkT8pJ/fXRArBAVGqFsCBybtyP5XjSxuXW9L1\nacxL0FxyZMHLlwSdLxt0ih9DI/Mjb6/WvepvaNYAx+WMiUjCo5alan3ViWSCw+Qf\ntyq/fcb+89JjvDwEOb3di8P7bCB7t58LHz+HnocHeE8C1de90/cThYTeamEoVt4y\nat80Utgj/CPmEgD/pxxSSIxy6tX1K3mQWQcx7L6oCQKBgQDQA7S1jHChhy3WFl9W\n4h1k7N6ccX2+7A+x7PBI0yreFK+ee5TM9maAu1qYORVLpLzaDm6Uboya2fO7ffFp\nMBTvHwhnf9smOd+LtIhgf3WZcBbjJEpvVNa29VosZ86Y6NC/v/agk0KHkve7W/Or\nb08VSJusQq6pA4GywSDCJJuDOQKBgQC4XJ4Q5fEOW8NI7AWWyX9lO+B0Ug3HIuKy\nXOty0tHA6+LmJR4ICehBf7Y4i1SJxZP/E6wGrcE+QxHDX9vqz0MNCEwmObQkdvr4\n/JJxhaRUwQYCRo1cseglgNN8WhzjpRkYPEXxSyLNUw0Dvzay+bO4cKIKB/2hVD7c\nvxgtmRrm/wKBgQCb1Xrm22xxhjzPevk3tLPCrTVkTB2hD2X+rHuigxhFQYgDmZ9z\nIVDPNgx7p6ANiD+2uEMdTehmBcvzdTmKzOuR7FS2fPFnpMmU9s2IRVSLe46Z4dEl\nsJAehpZkV+xNX3UrgZs41rlrqa2PniZhE0VSs490MIx6r9bVXJu29gfO+QKBgDas\n4QPJ7c+AT04VESNC5tEzDMHyg7uHEQwsmncXJrW8PzJZ16oypfqm0Xe7enrRaa7A\nOshQR3sbkO0MRMBCb3Qx/cNoYZBe6NdmsFeSdsXb6NhL7CiNaneU2SOL5f1tPR/+\n4A9LZSrXcoil8Kbrfu04GhY3gHST84Cr+5OqUFwpAoGARf6pniqfXmZwabRsE14G\n9DjVvmxNIzhLcsVYTJp/HPlcVlFDgEhIAhA39JwmgZG2oXD5U1MRjWJmdrOOQ7pZ\nVgRqeKw3Jm7tAbMVdFVx9MKuH6FDlb/JHPqJhkChGfdwQszXkt+SDQNlhyT9SDiV\nmf2/OXykAcoZivObWRwQx9w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "travisci-cgonzalez@devops-course-357802.iam.gserviceaccount.com",
+  "client_id": "109419223645857701663",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travisci-cgonzalez%40devops-course-357802.iam.gserviceaccount.com"
+}
